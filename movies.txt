@@ -6,3 +6,5 @@ Movies
                 2.  Sanchari
     Hindi   
         Actor
+            AmirKhan
+                1.  Ghajini
