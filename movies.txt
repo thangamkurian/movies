@@ -9,3 +9,5 @@ Movies
             AmirKhan
                 1.  Ghajini
                 2.  Lagaan
+                3.  PK
+
